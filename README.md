@@ -10,7 +10,7 @@ WASD/flechas: movimiento. Espacio: pulso. E: extracción cerca del nodo. Escape:
 
 ## Publicación
 
-La carpeta vive dentro del sitio `indice`, repo `kvothesson/kvothesson.github.io`. Publicar estos archivos en la rama `main` sirve `/ruta-404/` mediante GitHub Pages. No requiere cambios DNS, CNAME, servidores ni build. No copiar credenciales ni archivos del workspace al sitio.
+Repo propio `kvothesson/ruta-404`, publicado con GitHub Pages desde la rama `main` (raíz). Al ser project page bajo el dominio del user site, se sirve en https://kvothesson.com/ruta-404/. No requiere cambios DNS, CNAME, servidores ni build. No copiar credenciales ni archivos del workspace al repo.
 
 ## Diseño y balance inicial
 

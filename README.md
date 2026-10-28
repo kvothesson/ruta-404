@@ -20,4 +20,4 @@ Canon: entidades y textos derivados del skill Kvothesson. La expedición del Lit
 
 ## Verificación
 
-`node --test ../games/ruta-404-tests/engine.test.mjs` desde `indice` (o ejecutar el archivo de tests desde el workspace). La lógica está separada en `engine.mjs` para comprobar extracción, daño, tiempo, persecución y persistencia sin navegador.
+`node --test tests/engine.test.mjs tests/runtime.test.mjs` desde la raíz del repo. La lógica está separada en `engine.mjs` para comprobar extracción, daño, tiempo, persecución y persistencia sin navegador.
